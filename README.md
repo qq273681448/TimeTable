@@ -1,4 +1,4 @@
-# TimeTable
+# SubjectTable
 微信小程序课程表，漂亮简洁大方。<br>
 博客https://juejin.im/post/593246bd2f301e005840e37f
 <br>

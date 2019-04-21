@@ -1,0 +1,6 @@
+<!--pages/getSubject/getSubject.wxml-->
+<view class='content'>
+  <view class='btn'>
+    <button bindtap="seeSubject" id='0'>点击导入课表</button>
+  </view>
+</view>

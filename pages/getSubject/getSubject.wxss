@@ -1,7 +1,8 @@
 /* pages/getSubject/getSubject.wxss */
 .content{
-  background-color: #f2f2f2f2;
+  background-color: #eeeeee;
 }
+
 .btn{
   font-size: 60rpx;
   margin: 0 auto;

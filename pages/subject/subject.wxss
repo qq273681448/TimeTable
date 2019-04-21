@@ -14,9 +14,10 @@
   display: flex;
   align-items: center;
 }
+
 .left{
   width: 35rpx;
-  height: 100rpx;
+  height: 102rpx;
   font-size: 9pt;
   justify-content: center;
   display: flex;

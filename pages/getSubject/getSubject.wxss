@@ -1,0 +1,11 @@
+/* pages/getSubject/getSubject.wxss */
+.content{
+  background-color: #f2f2f2f2;
+}
+.btn{
+  font-size: 60rpx;
+  margin: 0 auto;
+  margin-top:3px;
+  text-align: center;
+
+}

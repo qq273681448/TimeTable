@@ -1,0 +1,82 @@
+/* pages/subject/subject.wxss */
+.top{
+  display: flex;
+  flex-direction: row;
+  margin-left: 35rpx;
+  background-color: #d2e6b3;
+  color: #7cba23;
+}
+.top-text{
+  width: 100rpx;
+  height: 35rpx;
+  font-size: 9pt;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+.left{
+  width: 35rpx;
+  height: 100rpx;
+  font-size: 9pt;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+.flex-item {
+  width: 95rpx;
+  height: 100px;
+}
+
+.kcb-item {
+  position: absolute;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  border-radius: 5px;
+}
+
+.smalltext {
+  font-size: 8pt;
+  color: #fff;
+  padding-left: 2px;
+}
+.scroll {
+  height: 1170rpx;
+  z-index: 101;
+  position: fixed;
+}
+.box1 .dateBox{
+  width: 100%;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 40rpx;
+}
+
+.box1{
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+.box1>view{
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  font-size: 34rpx;
+}
+
+.dateOn{
+  border-radius: 50%;
+  background-color: hotpink;
+  color: #fff;
+}
+.ball {
+  box-shadow:2px 2px 10px #AAA;
+  border-radius: 20px;
+  position: absolute; 
+}
+.font-color{
+  color:#a9a9a9;
+}

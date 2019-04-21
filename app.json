@@ -1,12 +1,14 @@
 {
   "pages":[
-    "pages/index/index",
-    "pages/logs/logs"
+    "pages/getSubject/getSubject",
+   "pages/subject/subject",
+   "pages/out/out",
+   "pages/set/set"
   ],
   "window":{
-    "backgroundTextStyle": "dark",
-    "navigationBarTitleText": "TimeTable",
-    "navigationBarBackgroundColor": "#7cba23",
-    "navigationBarTextStyle": "light"
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#1E90FF",
+    "navigationBarTitleText": "我的课程",
+    "navigationBarTextStyle":"black"
   }
 }

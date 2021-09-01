@@ -1,4 +1,7 @@
 # SubjectTable
+
+本项目已经不在维护
+
 微信小程序课程表，漂亮简洁大方。<br>
 原作者博客https://juejin.im/post/593246bd2f301e005840e37f
 <br>
